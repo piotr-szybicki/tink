@@ -1,0 +1,15 @@
+apply plugin: 'java'
+
+group = 'blog.pl.tink'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 1.8
+
+repositories {
+	mavenCentral()
+}
+
+
+dependencies {
+	compile group: 'com.google.crypto.tink', name: 'tink', version: '1.2.0'
+	compile group: 'com.google.cloud', name: 'google-cloud-storage', version:'1.40.0'
+}

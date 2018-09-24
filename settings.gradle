@@ -1,0 +1,4 @@
+rootProject.name = 'tink'
+
+include 'keyCreator'
+include 'encryptedStorage'

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "forexsignals-404f2",
+  "private_key_id": "17f0581bf9edf053d1a84c2da37611c9612830ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8AolMiBzJsKu0\nMP+COcavVBxox8a9Fc83oB2LKauKifgunrc8EvwOgFeY4upVaLAv/JWtposrF+bq\nf1tRR6i8jEKiRaHmeSb1fFP2+1KodX3A+6NLKk3BULME5FQbIg8akg6HTI3kEEU9\nh/lccnBgwWaRnXDLtmuvob4/1Fq2TK6CiC+uoDRHx8l9SvjzG18/JEV9EVV7JtDP\nrapcnVFw+Sqg16rUyzHPzlTnpm79fKRLxFn8XfOfZmZUgigzV5RmuiJadd+iS4sN\nNhfAFnGU4aPLUGypfGTkPh/rc/PpQqMt6QHGoglxnyUJk9W4GBibkrSD5ESIQs6j\nNmc6Jt2BAgMBAAECggEAFUjmOVtZgv302nAHpTscQsIvey9O0R5UeNQwNA6SJJuN\nFN4UGYF+treR8zWRWP0CoVQjr+agb88Dbf3gHToTINFyQ8PFWf3SSs16Bgaa64Zt\np7j1Wi+eYOndcorU+MNo2VW6vleM4spyxE4ODYjJLzMGBStBV1a+J0KU8s38PRIM\nY1nU2Z/vKUEwmCOTG8T2k1OEZuCf+lcFs3fu7sf2/EhRxjVnOBAAt1Ub1r85pcuK\ntuw+nLSvtHgrE4IBDidafR34Gggx1EgZjYOmwi9n92//+uXQxllRBnKR2BgzsCWz\n0o6ANRhjQ/sszeGIDoeXlIRJWQeC/oNcxtqQ1sk0KQKBgQD0S2jX0WzAw+lQahjl\nEb13Aoah1olx3xaCEvpMK2tyX27Xe/w8lTbgrBpqOidGFgvuzb3fC8Q1u+tmH/t8\nW1Q1dSNFs6JbqRvUiFXv0oNjv8DaNn1NipM5xTsuoItu+sTQEVfkCI+Ukjsahzf+\nG+c1Mc2U3POQoeIidxlUn4b4pQKBgQDFBLjlFs/zNOmbCFI1lBxSMATMIIAYpJp1\nd8H3ZfjCMpoBNsr9/elFyx7jshnKqBXBxt0tmgDXgJAUupHvPcSEfBan7hVWCFYA\nIPIoUC4kjwAh7njn3+vUXqrhDY8lHr+ooO3V79/3GBCrmtyuW975Cw/hafFORLud\nPfUX8J+erQKBgQDO4IlhsnUhbQbI1YBNhE9pWBdBOBfe+afq8T1Lgb2U9qI8E0AQ\n4d++NaCM8sBNhuAGE+9F0oYPZxs6ubzTm9fdCVycazoD21q5CdeUpzYjI8CiSmCk\naMSyuIacvtI1YmGHPhirAGDu1UL9/SJ6q5CJqKpK9S3B/oUs4KTv18SKDQKBgQCQ\nCXDHg5MKYo+7GS1JIHxIFfUb61LbMVP/N0umfHWOPIJdCtsDMCPgM6zkmKvEfnhR\nj/rZwPKGmuY7UV8pwkWu+i1yHlyY5kVBmNSRZnUloypcpETeeNWoEIHrQQd7Auzp\n8qWOt+1Mb9qYKwLVsjLkbhLxIIwbRaLIRaivFOsNjQKBgG6yWkP+pfXTLiD2k3SH\n7Oy3ezPO9x0qyIRK7ONBliUnxyklVjaiFC2qFR6z/dvcavCGQdayU6XVj+duhSiO\nyPzHs+zMUTyWTahj3CX5EqV1EFtILBoAMsxfj7yzavx7LYZyrpY36/rDTgk7jRzK\n+Zo3lvtjXzx1OW6SkLMb4Nx9\n-----END PRIVATE KEY-----\n",
+  "client_email": "tinkerexample@forexsignals-404f2.iam.gserviceaccount.com",
+  "client_id": "108718157797019030010",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tinkerexample%40forexsignals-404f2.iam.gserviceaccount.com"
+}
